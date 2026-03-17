@@ -10,7 +10,7 @@
 - cài đặt cái dependency
 - cài đặt nodemon tự động reload sever
 
-- ![alt text](<Screenshot 2026-03-17 131858.png>)
+- ![alt text](<dependence.png>)
 
 # Cách chạy
 - đi vào thử mục Lab02

@@ -25,7 +25,7 @@ Lab01:
 # Nội dung đã hoàn thành
 - Lab01: Hoàn thiện tất cả các yêu cầu: thiết lập môi trường, tải và code trên compass, thao tác trên mongosh để chạy các lệnh theo yêu cầu từ câu 2.1 tới 2.10
 
-- Lab02: Hoàn thành tất cả yêu cầu: thiết lập các Controller và các DAO để xây dựng API kết nối đến MongoDB
+- Lab02: Hoàn thành tất cả yêu cầu: thiết lập các Controller và các DAO để xây dựng API kết nối đến MongoDB. Bắt được API thành công
   
 - Lab03: chưa làm
 - Lab04: chưa làm
