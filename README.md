@@ -19,15 +19,40 @@ Lab01:
 - Thiết lập được môi trường
 - Và thực hiện một số câu lệnh với MongoDB
 
+Lab02:
+- thiết lập môi trường backend với node|expressjs
+- cài đặt các file dao/controller thuận tiện cho việc kết nối backend
+
+Lab03:
+- tạo các file controller, router, dao và chỉnh index để setup kết nối db cho review
+- thực hiện kiểm thử
+
 # Cách chạy chương trình
 - Lab01: copy các lệnh tại Lab01/23521092-BT01.md, sử dụng các lệnh để chạy trên mongosh của mongo compass
+
+- Lab02: 
+    - đi vào thử mục Lab02
+    cd Lab02
+    - vào tiếp thư mục backend nơi lưu dự án
+    cd backend
+    - chạy với lệnh
+    npm run dev 
+
+-Lab03: 
+    - đi vào thử mục Lab03
+    cd Lab03
+    - vào tiếp thư mục backend nơi lưu dự án
+    cd backend
+    - chạy với lệnh
+    npm run dev 
 
 # Nội dung đã hoàn thành
 - Lab01: Hoàn thiện tất cả các yêu cầu: thiết lập môi trường, tải và code trên compass, thao tác trên mongosh để chạy các lệnh theo yêu cầu từ câu 2.1 tới 2.10
 
 - Lab02: Hoàn thành tất cả yêu cầu: thiết lập các Controller và các DAO để xây dựng API kết nối đến MongoDB. Bắt được API thành công
   
-- Lab03: chưa làm
+- Lab03: Hoàn tất thiết lập controller, DAO, định tuyến cho Reviews cũng như trình bày kết quả thông qua postman
+
 - Lab04: chưa làm
 - Lab05: chưa làm
 - Lab06: chưa làm
