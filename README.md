@@ -38,7 +38,7 @@ Lab03:
     - chạy với lệnh
     npm run dev 
 
--Lab03: 
+- Lab03: 
     - đi vào thử mục Lab03
     cd Lab03
     - vào tiếp thư mục backend nơi lưu dự án
