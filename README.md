@@ -27,6 +27,10 @@ Lab03:
 - tạo các file controller, router, dao và chỉnh index để setup kết nối db cho review
 - thực hiện kiểm thử
 
+Lab04:
+- Hiểu được cách thiết lập fe trong MERN
+- Xây dựng thanh Nav Header bar với sợ hỗ trợ của bootstrap
+
 # Cách chạy chương trình
 - Lab01: copy các lệnh tại Lab01/23521092-BT01.md, sử dụng các lệnh để chạy trên mongosh của mongo compass
 
@@ -38,7 +42,7 @@ Lab03:
     - chạy với lệnh
     npm run dev 
 
--Lab03: 
+- Lab03: 
     - đi vào thử mục Lab03
     cd Lab03
     - vào tiếp thư mục backend nơi lưu dự án
@@ -46,6 +50,9 @@ Lab03:
     - chạy với lệnh
     npm run dev 
 
+- Lab04:
+    - Đi vào Lab04
+    - chạy lệnh npm run dev
 # Nội dung đã hoàn thành
 - Lab01: Hoàn thiện tất cả các yêu cầu: thiết lập môi trường, tải và code trên compass, thao tác trên mongosh để chạy các lệnh theo yêu cầu từ câu 2.1 tới 2.10
 
