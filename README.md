@@ -60,6 +60,7 @@ Lab04:
   
 - Lab03: Hoàn tất thiết lập controller, DAO, định tuyến cho Reviews cũng như trình bày kết quả thông qua postman
 
-- Lab04: chưa làm
+- Lab04: Hoàn tất việc thiết lập fe với react 
+
 - Lab05: chưa làm
 - Lab06: chưa làm
