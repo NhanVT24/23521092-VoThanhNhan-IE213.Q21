@@ -1,0 +1,86 @@
+:root {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: #1f2937;
+  background: #ffffff;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+a {
+  text-decoration: none;
+}
+
+.app-shell {
+  min-height: 100vh;
+}
+
+.site-navbar {
+  border-bottom: 1px solid #dee2e6;
+}
+
+.brand-mark {
+  font-weight: 600;
+}
+
+.page-shell {
+  padding: 1rem 0 2rem;
+}
+
+.movie-card {
+  width: 18rem;
+  height: 100%;
+}
+
+.movie-poster {
+  height: 270px;
+  object-fit: cover;
+}
+
+.movie-detail-poster {
+  width: 100%;
+  max-width: 325px;
+}
+
+.review-actions {
+  display: flex;
+  gap: 1rem;
+}
+
+.review-entry {
+  margin-bottom: 1rem;
+}
+
+.empty-state {
+  padding: 2rem 1rem;
+}
+
+.movie-list-col {
+  display: flex;
+  justify-content: center;
+}
+
+.movie-detail-wrap {
+  max-width: 1100px;
+}
+
+.movie-detail-card .card-body {
+  min-height: 135px;
+}
+
+@media (max-width: 768px) {
+  .page-shell {
+    padding-top: 0.75rem;
+  }
+
+  .movie-poster {
+    height: 250px;
+  }
+}
