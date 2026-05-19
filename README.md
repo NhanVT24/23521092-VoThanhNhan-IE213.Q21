@@ -34,6 +34,9 @@ Lab04:
 Lab05: 
 - Hiểu được việc kết nối be và fe, cũng như thao tác trên postman thêm review. xây dựng giao diện phù hợp
 
+Lab06:
+- Thực hiện việc thêm xóa sửa Reviews
+
 # Cách chạy chương trình
 - Lab01: copy các lệnh tại Lab01/23521092-BT01.md, sử dụng các lệnh để chạy trên mongosh của mongo compass
 
@@ -61,6 +64,10 @@ Lab05:
     - Vào thư mục Lab03/backend -> npm install -> npm run dev
     - Vào thư mục Lab05/frontend -> npm install -> npm run dev
 
+- Lab06:
+    - Vào thư mục Lab03/backend -> npm install -> npm run dev
+    - Vào thư mục Lab06/frontend -> npm install -> npm run dev
+
 
 # Nội dung đã hoàn thành
 - Lab01: Hoàn thiện tất cả các yêu cầu: thiết lập môi trường, tải và code trên compass, thao tác trên mongosh để chạy các lệnh theo yêu cầu từ câu 2.1 tới 2.10
@@ -73,4 +80,4 @@ Lab05:
 
 - Lab05: Hoàn tất việc thiết lập kết nối giữa fe và be, cũng như thực hiện một số thao tác cơ bản
 
-- Lab06: chưa làm
+- Lab06: Hoàn tất việc thêm xóa sửa cho Reviews và tạo phân trang
